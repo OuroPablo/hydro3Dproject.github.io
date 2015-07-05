@@ -253,8 +253,8 @@ form {
 section.main_content img.flowright {
   float: right;
   width: 20%;
-  max-width: 250px;
-  min-width: 100px;
+  max-width: 100px;
+  min-width: 50px;
   margin-left: 20px;
   margin-bottom: 20px;
   margin-top: 20px;
