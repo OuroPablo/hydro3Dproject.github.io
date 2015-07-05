@@ -250,7 +250,7 @@ form {
 }
 
 /* Section-specific styles */
-section.introduction img.flowright {
+section.main_content img.flowright {
   float: right;
   width: 20%;
   max-width: 250px;
